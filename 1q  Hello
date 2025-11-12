@@ -22,8 +22,4 @@ public class HelloJavaFX extends Application {
 }
 
 
-Output:
-Hello, JavaFX!
-Java Version: 21.0.1
-JavaFX Version: 21.0.1
 
